@@ -1229,3 +1229,11 @@ requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=5
 🔎 Server version: v3.0.0
 📂 Local version: v3.0.0
 ✅ Already up to date.
+🔍 Checking for update...
+🔎 Server version: v3.0.0
+📂 Local version: v3.0.0
+✅ Already up to date.
+🔍 Checking for update...
+🔎 Server version: v3.0.0
+📂 Local version: v3.0.0
+✅ Already up to date.
