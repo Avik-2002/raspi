@@ -1,1 +1,1 @@
- print("hello, from avik,new to github, working success fully")
+ print("hello, me avik")
