@@ -1,1 +1,2 @@
-hello, me changing 15
+from datetime import datetime
+print("Running version at:", datetime.now())
